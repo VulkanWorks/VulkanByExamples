@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/shaders/CircleFrag.spv</file>
+        <file>source/shaders/CircleVert.spv</file>
+        <file>source/shaders/RectInstanceFrag.spv</file>
+        <file>source/shaders/RectInstanceVert.spv</file>
+    </qresource>
+</RCC>
