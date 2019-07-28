@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/shaders/CubeVert.spv</file>
+        <file>source/shaders/CubeFrag.spv</file>
+    </qresource>
+</RCC>
